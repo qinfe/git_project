@@ -4,5 +4,5 @@ public class StudentModel {
 	private int id;
 	private String username;
 	private String password;
-
+        private String love;
 }
